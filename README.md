@@ -1,4 +1,4 @@
-\# Gestor de Gastos Personal
+Gestor de Gastos Personal
 
 
 
@@ -6,41 +6,41 @@ Aplicación de gestión de gastos personales desarrollada en Java como proyecto 
 
 
 
-\## Tecnologías utilizadas
+Tecnologías utilizadas
 
-\- Java 17
+- Java 17
 
-\- JUnit 5
+- JUnit 5
 
-\- Eclipse IDE
+- Eclipse IDE
 
 
 
-\## Arquitectura
+Arquitectura
 
 El proyecto sigue una arquitectura en capas:
 
-\- \*\*Modelo\*\*: clase `Gasto`
+- Modelo: clase `Gasto`
 
-\- \*\*Servicio\*\*: clase `GestorGastos`  
+- Servicio: clase `GestorGastos`  
 
-\- \*\*Repositorio\*\*: clase `GastoRepositorio`
+- Repositorio: clase `GastoRepositorio`
 
-\- \*\*Vista\*\*: clase `Principal`
+- Vista: clase `Principal`
 
 
 
-\## Funcionalidades
+Funcionalidades
 
-\- Añadir gastos con importe, categoría, descripción y fecha
+- Añadir gastos con importe, categoría, descripción y fecha
 
-\- Resumen de gastos por categoría
+- Resumen de gastos por categoría
 
-\- Filtrado por rango de fechas
+- Filtrado por rango de fechas
 
-\- Persistencia de datos en fichero CSV
+- Persistencia de datos en fichero CSV
 
-\- Tests unitarios con JUnit 5
+- Tests unitarios con JUnit 5
 
 
 
