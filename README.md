@@ -12,7 +12,9 @@ Tecnologías utilizadas
 
 - JUnit 5
 
-- Eclipse IDE
+- IntelliJ Idea
+  
+- Spring Boot
 
 
 
