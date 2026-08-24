@@ -16,7 +16,7 @@ Tecnologías utilizadas
   
 - Spring Boot
 
-
+- PostgreSQL
 
 Arquitectura
 
